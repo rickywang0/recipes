@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+ul, 
+ol {
+    background-color: lightblue;
+    font-size: large;
+}
+
+#home {
+    font-weight: bold;
+    font-size: larger;
+    color: pink;
+    background-color: black;
+}
+
+.onigiri {
+    color: salmon;
+}
+
+.oyakodon {
+    color: yellowgreen
+}
+
+.ramen {
+    color: brown;
+}
