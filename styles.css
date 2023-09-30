@@ -9,12 +9,14 @@ ol {
     font-size: large;
 } */
 
-/* #home {
-    font-weight: bold;
-    font-size: larger;
+#title {
     color: pink;
     background-color: black;
-} */
+    display: inline-block;
+    margin: 0px;
+    padding: 0.25em;
+    border: lightgray outset 10px;
+}
 
 .onigiri {
     color: salmon;
