@@ -3,18 +3,18 @@ body {
     background-color: beige;
 }
 
-ul, 
+/* ul, 
 ol {
     background-color: lightblue;
     font-size: large;
-}
+} */
 
-#home {
+/* #home {
     font-weight: bold;
     font-size: larger;
     color: pink;
     background-color: black;
-}
+} */
 
 .onigiri {
     color: salmon;
@@ -26,4 +26,17 @@ ol {
 
 .ramen {
     color: brown;
+}
+
+.bulletless {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+button {
+    font-size: large;
+    border: rgb(197, 149, 157) ridge 10px;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    background-color: pink;
 }
